@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "main": "00.js",
+  "scripts": {
+    "test": "npm",
+    "hello":"node -v"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "zhuangzz",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
